@@ -1,0 +1,4 @@
+Data travels through the internet in packets -- information included in these packets tells computers the type of data, its origin, and final destination.
+The DNS is an Internet service that translates domain names to IP addresses, which is the computer's assigned address.
+A cookie is a string of text that has information about the browser, and some (not all) store personal information.
+The three basic components of a URL are the protocol, the server name, and the resource ID.
