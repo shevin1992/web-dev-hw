@@ -4,4 +4,4 @@ Version control systems manage the changes made to documents, computer programs,
 
 My [responses](./responses.txt)
 
-[image of screenshot](./images/a2screenshot.png)
+![image of screenshot](/images/a2screenshot.png)
